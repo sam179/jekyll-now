@@ -17,12 +17,12 @@ avatar: https://scontent-atl3-1.cdninstagram.com/t51.2885-19/s150x150/19051633_1
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: samarsinghholkar@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: 
+  instagram: 
+  linkedin: https://www.linkedin.com/in/samar-holkar-422906b5/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
@@ -30,6 +30,8 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
+## theme
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
