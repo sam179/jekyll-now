@@ -3,7 +3,7 @@ layout: post
 title: my first post: A Roadmap  (Yay?)
 ---
 
-I find myself at a precarious situation. I have accumulated lots of material, along with creating a list of concepts to be
+I find myself in a precarious situation. I have accumulated lots of material, along with creating a list of concepts to be
 learned. Time I get after work has been limited, so I would have to plan and pick and complete certain things in an orderly
 manner, if there is to be any chance of accomplishing all this stuff in a few months, then a little more proactivity would be required.
 
