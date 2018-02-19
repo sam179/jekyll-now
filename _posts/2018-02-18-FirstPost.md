@@ -1,6 +1,6 @@
 ---
 layout: post
-title: my first blog post: A Roadmap
+title: my first post: A Roadmap  (Yay?)
 ---
 
 I find myself at a precarious situation. I have accumulated lots of material, along with creating a list of concepts to be
