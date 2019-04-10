@@ -1,0 +1,1 @@
+The language has been pretty basic. The books starts and starts delving into metaphors from the get go. I mean this is a stark reminder of Kafka on the Shore which was enjoyable as fuck but also deep into metaphysical elements that took some time to fully settle in.
