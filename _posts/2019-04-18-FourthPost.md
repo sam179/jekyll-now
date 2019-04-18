@@ -1,3 +1,8 @@
+---
+layout: post
+title: Norwegian Wood
+---
+
 After all the hype I heard about Norwegian Wood, this finally felt like a time I could pick it up. The language has been pretty basic, I guess that is the case when a non-English speaking author writes an English novel. I guess if there is something consistent in Murakami's work, it's his generous use of metaphors. Norwegian Wood feels a bit more forthright than Kafka on the Shore, but it ain't an exception to the metaphor rule.
 
 
